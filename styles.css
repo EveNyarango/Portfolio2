@@ -15,7 +15,16 @@ nav{
             color:hotpink;
         }
 nav a{
-    color:hotpink;
+    color:white;
+    text-decoration: none;
+    margin-left: 100px;
+}
+#name{
+    color: hotpink;
+    font-weight: 600;
+    font-style: italic;
+    font-size:30px;
+    margin-left:5px;
 }
 body{
     background-image:url(/images/port1.jpeg);
@@ -31,12 +40,12 @@ body{
     color: white;
 text-align: center;
 }
-.portfolio{
-    color: hotpink;
-}
+
 h2{
     text-align:center;
+    color: hotpink;
 }
-/* hr{
-    color: white;
-} */
+
+.card{
+    text-align: center;
+}
