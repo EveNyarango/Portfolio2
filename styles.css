@@ -26,7 +26,7 @@ nav a{
     font-size:30px;
     margin-left:5px;
 }
-body{
+.go{
     background-image:url(/images/port1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,3 +49,17 @@ h2{
 .card{
     text-align: center;
 }
+
+#skills{
+    text-align: center;
+    color: white;
+}
+
+#contacts{
+    margin-top: 20dp;
+}
+/* form{
+    height: 500px;
+    width: 500px;
+} */
+
