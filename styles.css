@@ -27,7 +27,7 @@ nav a{
     margin-left:5px;
 }
 .go{
-    background-image:url(/images/port1.jpeg);
+    background-image:url(images/port1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
