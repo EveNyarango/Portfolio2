@@ -73,3 +73,17 @@ color: white;
 span{
     padding-top: 30px;
 }
+
+.col-md-2 img {
+    width: 220px;
+    height: 220px;
+
+}
+
+#con {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#real{
+    padding-top:50px;
+}
